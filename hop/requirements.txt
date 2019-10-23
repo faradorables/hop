@@ -8,7 +8,7 @@ Flask_PyMongo==0.5.1
 SQLAlchemy==1.1.9
 requests==2.14.2
 Flask==0.12.2
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 Flask_Devices==0.0.1
 Flask_Login==0.4.0
 Flask_Moment==0.5.1
